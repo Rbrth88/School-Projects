@@ -1,0 +1,44 @@
+body {
+  background-color: #9011c6;
+}
+
+h1 {
+  text-align: center;
+}
+.group{
+  display: block;
+}
+form{
+  text-align: center;
+  font-weight: bold;
+}
+img {
+   width: 90px;
+   height: 90px;
+   float: left;
+}
+
+#idCard {
+   border: 5px solid black;
+   border-radius: 25px;
+   height: 14em;
+   width: 25em;
+   background-color: crimson;
+   margin-left: auto;
+   margin-right: auto;
+}
+#postFullName {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 2em;
+  text-align: center;
+  margin-top: 2%
+}
+.lowerCase {
+  text-align: left;
+  margin-top: 10%;
+  font-weight: bold;
+  font-family: Georgia, serif;
+}
+#getIdCard {
+  margin-bottom: 10%;
+}
